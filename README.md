@@ -1,5 +1,6 @@
 # Juhi-Sharma--Flutter-Task
 Project Name: Weather App
+
 Description: Create a simple weather app using Flutter that displays current weather information for a given city. The app will feature two screens: a home screen with a search bar to enter a city name and a button to trigger the weather search, and a weather details screen to display weather information such as city name, current temperature in Celsius, weather condition, an icon representing the weather condition, humidity percentage, and wind speed. It will fetch weather data from the OpenWeatherMap API. The app should include a loading indicator while fetching data, proper error handling, and user-friendly error messages. State management will be handled using setState or Provider, and the design will be responsive for both mobile and tablet devices. The weather details screen will also have a "Refresh" button to fetch updated weather data, and the app will implement data persistence to save the last searched city.
 Solution: This code provides a basic implementation of a weather app using Flutter and the Provider package for state management. Here's a breakdown of the solution:
 
